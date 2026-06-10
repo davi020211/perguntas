@@ -13,14 +13,7 @@ pergunta:"Qual é a moeda oficial da China?",
 opcoes:["Won","Iene","Yuan","Dólar"],
 resposta:"Yuan"
 },
-
-{
-tipo:"alternativa",
-pergunta:"pergunta",
-opcoes:["Opção1","Opção2","Opção3","Opção4"],
-resposta:"resposta"
-},
-
+    
 {
 tipo:"alternativa",
 pergunta:"Em qual continente a China está localizada?",
