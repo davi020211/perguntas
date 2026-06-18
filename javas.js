@@ -1,3 +1,4 @@
+let titulo
 let pontuacao=0
 const perguntas = [
 
