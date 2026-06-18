@@ -53,17 +53,6 @@ pergunta:"Qual aplicativo pertence à ByteDance?",
 resposta:"TikTok"
 },
 
-{
-tipo:"alternativa",
-pergunta:"Considerando os dados demográficos mais recentes, qual é a população aproximada da China, um dos países mais populosos do planeta?",
-opcoes:[
-"Aproximadamente 543 milhões de habitantes.",
-"Aproximadamente 2,3 bilhões de habitantes.",
-"Aproximadamente 1,4 bilhão de habitantes.",
-"Aproximadamente 954 milhões de habitantes."
-],
-resposta:"Aproximadamente 1,4 bilhão de habitantes."
-},
 
 {
 tipo:"alternativa",
@@ -115,32 +104,34 @@ resposta:"Cinquenta e seis grupos étnicos são oficialmente reconhecidos."
 
 {
 tipo:"escrita",
-pergunta:"A política do filho único foi uma das medidas demográficas mais marcantes da história recente da China. Explique como essa política afetou a sociedade chinesa e cite pelo menos duas consequências de sua aplicação.",
-resposta:"Redução da taxa de natalidade, envelhecimento populacional, desequilíbrio entre homens e mulheres ou desaceleração do crescimento populacional."
+pergunta:"Qual bloco econômico a China faz parte junto com o Brasil?",
+resposta:"Brics"
 },
 
 {
 tipo:"escrita",
-pergunta:"Nas últimas quatro décadas, a China passou por profundas transformações econômicas e sociais. Quais foram algumas das principais mudanças sociais ocorridas no país durante esse período?",
-resposta:"Urbanização acelerada, crescimento da classe média, expansão do acesso à educação, aumento da renda da população, redução da pobreza ou maior acesso à tecnologia."
+pergunta:"A China se destaca principalmente no setor ____",
+resposta:"Industrial"
 },
 
 {
 tipo:"escrita",
-pergunta:"O processo de globalização intensificou a integração da China com o restante do mundo. De que maneira esse fenômeno influenciou os costumes, hábitos e o modo de vida da população chinesa?",
-resposta:"Influência de culturas estrangeiras, crescimento do consumo de produtos globais, expansão da internet, intercâmbio cultural ou mudanças nos hábitos e costumes das novas gerações."
+pergunta:"Verdadeiro ou Falso:
+A China é o país com maior extensão territorial do mundo"
+resposta:"Falso"
 },
 
 {
 tipo:"escrita",
-pergunta:"Com o avanço tecnológico e o crescimento econômico do país, novas oportunidades profissionais surgiram em diversos setores. Quais profissões ou áreas de atuação estão apresentando maior crescimento na China atualmente?",
-resposta:"Tecnologia da informação, inteligência artificial, energias renováveis, robótica, engenharia avançada, comércio eletrônico, biotecnologia ou área da saúde."
+pergunta:"Verdadeiro ou Falso:
+A China é um dos principais países no mercado da tecnologia"
+resposta:"Verdadeiro"
 },
 
 {
 tipo:"escrita",
-pergunta:"As novas gerações chinesas possuem visões diferentes das gerações anteriores sobre trabalho, relacionamentos e projetos de vida. Como os jovens chineses enxergam atualmente o casamento e a construção de uma carreira profissional?",
-resposta:"Muitos jovens priorizam a formação acadêmica e a carreira profissional antes do casamento, tendem a casar mais tarde e enfrentam desafios relacionados ao alto custo de vida e moradia nas grandes cidades."
+pergunta:"Verdadeiro ou Falso: A China está com uma crescente no comércio interno",
+resposta:"Falso"
 },
 
 {
@@ -157,8 +148,8 @@ resposta:"O norte apresenta áreas mais frias e secas, enquanto o sul é mais qu
 
 {
 tipo:"escrita",
-pergunta:"O rápido crescimento industrial chinês trouxe sérios impactos à natureza. Cite 2 dos três principais problemas ambientais.",
-resposta:"Poluição do ar, contaminação de rios ou aumento das emissões de gases do efeito estufa."
+pergunta:"Qual problema a China enfrenta em relação a idade da população?",
+resposta:"Envelhecimento."
 },
 
 {
@@ -210,12 +201,6 @@ resposta:"5,0%"
 },
 
 {
-tipo:"escrita",
-pergunta:"Em uma mudança estrutural histórica para a matriz energética chinesa refletida em relatórios recentes de 2025, o que aconteceu pela primeira vez desde o ano de 2015 com a geração de energia total por combustíveis fósseis no país?",
-resposta:"A geração por combustíveis fósseis sofreu um declínio ou queda de aproximadamente 0,9%."
-},
-
-{
 tipo:"alternativa",
 pergunta:"No aspecto social e demográfico, a população da China registrou uma mudança importante em 2025, fechando o ano com cerca de 7,92 milhões de nascimentos e 11,31 milhões de óbitos. Qual foi o resultado direto dessa dinâmica para a taxa de crescimento natural do país?",
 opcoes:[
@@ -225,12 +210,6 @@ opcoes:[
 "O rejuvenescimento imediato de toda a força de trabalho rural."
 ],
 resposta:"Uma taxa de crescimento negativa (causando o encolhimento populacional)."
-},
-
-{
-tipo:"escrita",
-pergunta:"Como parte das metas de modernização social e bem-estar, a China expandiu significativamente suas redes de proteção de saúde. Até o final de 2025, aproximadamente quantos bilhões de cidadãos chineses estavam formalmente cobertos pelo seguro médico básico do país?",
-resposta:"Cerca de 1,33 bilhão de pessoas."
 },
 
 {
@@ -249,7 +228,7 @@ resposta:"Índia"
 {
 tipo:"escrita",
 pergunta:"Qual iniciativa econômica chinesa busca conectar Ásia, Europa e África?",
-resposta:"Belt and Road"
+resposta:"A Nova rota da seda"
 },
 
 {
@@ -260,8 +239,8 @@ resposta:"Partido Comunista"
 
 {
 tipo:"escrita",
-pergunta:"Qual país foi o maior parceiro comercial da China em 2025?",
-resposta:"ASEAN"
+pergunta:"Em que ano começou o projeto da Nova Rota da Seda?",
+resposta:"2013"
 },
 
 {
