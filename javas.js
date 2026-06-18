@@ -1,3 +1,4 @@
+let pontuacao=0
 const perguntas = [
 
 {
@@ -398,9 +399,10 @@ respostaUsuario ===
 correta.toLowerCase()
 ){
 
+    
 pontuacao++;
 
-resultado.innerHTML =
+resu aleatório E se ele acertar ele avançar 12 você bota 12 mas se ele errar você amansar duas e ele volta 12 altado.innerHTML =
 "✅ Resposta correta!";
 
 resultado.style.color =
@@ -453,6 +455,7 @@ titulo +
 "</h3>" +
 
 "<p>Você acertou " +
+
 pontuacao +
 " perguntas.</p>" +
 
