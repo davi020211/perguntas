@@ -63,7 +63,7 @@ opcoes:[
 "O islamismo é a religião predominante e seguida pela maior parte da população chinesa.",
 "A sociedade chinesa apresenta uma grande diversidade religiosa, além de uma significativa parcela da população sem filiação religiosa."
 resposta:"A sociedade chinesa apresenta uma grande diversidade religiosa, além de uma significativa parcela da população sem filiação religiosa."
-},
+]},
 
 {
 tipo:"alternativa",
@@ -74,7 +74,7 @@ opcoes:[
 "A expectativa de vida média supera os 85 anos de idade.",
 "Os dados sobre expectativa de vida não são conhecidos nem divulgados oficialmente."
 resposta:"A expectativa de vida média é de cerca de 80 anos de idade."
-},
+]},
 
 {
 tipo:"alternativa",
