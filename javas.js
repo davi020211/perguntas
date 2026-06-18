@@ -62,9 +62,9 @@ opcoes:[
 "O país possui uma única religião oficial que é seguida pela totalidade da população chinesa.",
 "O hinduísmo é a religião praticada pela maioria absoluta dos habitantes da China.",
 "O islamismo é a religião predominante e seguida pela maior parte da população chinesa.",
-"A sociedade chinesa apresenta uma grande diversidade religiosa, além de uma significativa parcela da população sem filiação religiosa."
+"A sociedade chinesa apresenta uma grande diversidade religiosa, além de uma significativa parcela da população sem filiação religiosa."],
 resposta:"A sociedade chinesa apresenta uma grande diversidade religiosa, além de uma significativa parcela da população sem filiação religiosa."
-]},
+},
 
 {
 tipo:"alternativa",
@@ -73,9 +73,9 @@ opcoes:[
 "A expectativa de vida média é inferior a 70 anos de idade.",
 "A expectativa de vida média é de cerca de 80 anos de idade.",
 "A expectativa de vida média supera os 85 anos de idade.",
-"Os dados sobre expectativa de vida não são conhecidos nem divulgados oficialmente."
+"Os dados sobre expectativa de vida não são conhecidos nem divulgados oficialmente."],
 resposta:"A expectativa de vida média é de cerca de 80 anos de idade."
-]},
+},
 
 {
 tipo:"alternativa",
@@ -115,15 +115,13 @@ resposta:"Industrial"
 
 {
 tipo:"escrita",
-pergunta:"Verdadeiro ou Falso:
-A China é o país com maior extensão territorial do mundo"
+pergunta:"Verdadeiro ou Falso: A China é o país com maior extensão territorial do mundo",
 resposta:"Falso"
 },
 
 {
 tipo:"escrita",
-pergunta:"Verdadeiro ou Falso:
-A China é um dos principais países no mercado da tecnologia"
+pergunta:"Verdadeiro ou Falso: A China é um dos principais países no mercado da tecnologia",
 resposta:"Verdadeiro"
 },
 
