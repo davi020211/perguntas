@@ -400,7 +400,7 @@ correta.toLowerCase()
     
 pontuacao++;
 
-resu aleatório E se ele acertar ele avançar 12 você bota 12 mas se ele errar você amansar duas e ele volta 12 altado.innerHTML =
+resultado aleatório E se ele acertar ele avançar 12 você bota 12 mas se ele errar você amansar duas e ele volta 12 altado.innerHTML =
 "✅ Resposta correta!";
 
 resultado.style.color =
